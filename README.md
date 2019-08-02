@@ -1,8 +1,10 @@
 # API-Restful-ASPNET-CORE
 <h5>
+<center>
 **************************************************************************<br>
-* CASO OCORRA ALGUM O ERRO OS MÉTODOS IRÃO RETORNAR UMA MENSAGEM DE ERRO *<br>
+ CASO OCORRA ALGUM O ERRO OS MÉTODOS IRÃO RETORNAR UMA MENSAGEM DE ERRO <br>
 **************************************************************************<br>
+</center>
 </h5>
 
 <pre>
