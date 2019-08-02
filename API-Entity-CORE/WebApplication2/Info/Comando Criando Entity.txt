@@ -1,0 +1,1 @@
+Scaffold-DBContext "string conexao" Pomelo.EntityFrameworkCore.MySql -OutpurDir "nome Pasta"
