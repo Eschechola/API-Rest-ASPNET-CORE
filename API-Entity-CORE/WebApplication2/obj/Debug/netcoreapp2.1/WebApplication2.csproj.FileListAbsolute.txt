@@ -1,0 +1,14 @@
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\CTTarde\Desktop\a\API-Restful-ASPNET-CORE\API-Entity-CORE\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb

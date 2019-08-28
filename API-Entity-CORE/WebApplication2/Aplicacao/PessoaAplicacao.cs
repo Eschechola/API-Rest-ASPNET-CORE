@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Threading.Tasks;
 using WebApplication2.Models;
 
 namespace WebApplication2.Utilities.Aplicacao
