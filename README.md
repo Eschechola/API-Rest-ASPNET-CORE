@@ -9,7 +9,9 @@
 * Inserir *
 * Método HTTP: POST
 
-/api/Lyfr/Inserir/?json={"Nome":"Lucas","Senha":"123321","Idade":18,"Email":"a@eu.com"}
+/api/Lyfr/Inserir/
+
+*ENVIAR MODEL PESSOA SERIALIZADO NO CONTENT*
 
 FORMATO JSON:
 
@@ -29,7 +31,9 @@ FORMATO JSON:
 * Alterar *
 * Método HTTP: PUT
 
-/api/Lyfr/Alterar/?json={"Id":1 "Nome":"Lucas","Senha":"123321","Idade":18,"Email":"a@eu.com"}
+/api/Lyfr/Alterar/
+
+*ENVIAR MODEL PESSOA SERIALIZADO NO CONTENT*
 
 {
 	"Id": 1
@@ -49,7 +53,9 @@ FORMATO JSON:
 * Deletar *
 * Método HTTP: DELETE
 
-/api/Lyfr/Alterar/Deletar/?id=3
+/api/Lyfr/Alterar/Deletar/
+
+*ENVIAR O ID NO CONTENT*
 
 * Deleta o usuário com o id informado
 * Caso o usuário não existe retorna uma mensagem de erro
@@ -60,10 +66,10 @@ FORMATO JSON:
 * Método HTTP: GET
 
 * GetUsuarioByEmail *
-* Método HTTP: GET
+* Método HTTP: POST
 
 * GetUsuarioById *
-* Método HTTP: GET
+* Método HTTP: POST
 
 /api/Lyfr/GetTodosUsuarios
 
@@ -88,7 +94,9 @@ FORMATO JSON:
 ]
 
 
-/api/Lyfr/GetUsuarioByEmail/?email=a@eu1.com
+/api/Lyfr/GetUsuarioByEmail/
+
+*ENVIAR EMAIL NO CONTENT*
 
 * Irá retornar um usuário que será pego pelo email
 * Caso o email não exista retornará uma mensagem de erro avisando
@@ -103,7 +111,9 @@ FORMATO JSON:
 }
 
 
-/api/Lyfr/GetUsuarioById/?id=4
+/api/Lyfr/GetUsuarioById/
+
+*ENVIAR ID NO CONTENT*
 
 * Irá retornar um usuário que será pego pelo id
 * Caso o id não exista retornará uma mensagem de erro avisando
