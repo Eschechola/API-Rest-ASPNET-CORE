@@ -1,4 +1,4 @@
-# API-Restful-ASPNET-CORE
+# API-Rest-ASPNET-CORE
 
 <h1>ROTAS E REGRAS</h1>
 
